@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HolaGithub", "HolaGithub\HolaGithub.csproj", "{2AFD9E06-83D2-42B9-AA7C-7FBF71FD48B5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2AFD9E06-83D2-42B9-AA7C-7FBF71FD48B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2AFD9E06-83D2-42B9-AA7C-7FBF71FD48B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2AFD9E06-83D2-42B9-AA7C-7FBF71FD48B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2AFD9E06-83D2-42B9-AA7C-7FBF71FD48B5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AA267663-7C92-41DF-8632-B214806ED4F2}
+	EndGlobalSection
+EndGlobal
